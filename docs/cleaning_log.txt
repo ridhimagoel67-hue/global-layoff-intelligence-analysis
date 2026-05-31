@@ -1,0 +1,15 @@
+dataset layoffs 
+4428 layoff events
+66 countries
+30 industries
+16 company stages
+2020-2026 coverage
+
+Duplicates Found: 0
+Action Taken: None
+
+Column	Action
+location	Filled 1 missing value with "Unknown"
+country	Filled Fit Analytics = Germany
+country	Filled Ludia = Canada
+industry	Filled 2 missing values with "Unknown"

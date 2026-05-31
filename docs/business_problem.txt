@@ -1,0 +1,7 @@
+Business Questions
+1. How have global layoff trends evolved from 2020 to 2026?
+2. Which industries experienced the highest layoff activity and workforce reductions?
+3. Which countries were most affected by layoffs during the study period?
+4. Which company stages (Seed, Series A, Series B, Post-IPO, etc.) are most vulnerable to layoffs?
+5. Is there a relationship between funds raised and the magnitude of layoffs?
+6. Which companies conducted the largest layoffs, and what characteristics do they share?
