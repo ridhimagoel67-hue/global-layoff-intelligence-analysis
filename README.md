@@ -47,7 +47,7 @@ Analyzed 4,428 global layoff events from 2020–2026 to identify workforce reduc
 
 ### Company Stage Analysis
 
-![Stage Analysis](outputs/charts/chart6_stage_layoffs.png)
+![Stage Analysis](outputs/charts/chart7_stage_layoffs.png)
 
 **Insight:** Post-IPO companies accounted for the majority of workforce reductions, suggesting mature firms were more likely to undertake large-scale restructuring.
 
